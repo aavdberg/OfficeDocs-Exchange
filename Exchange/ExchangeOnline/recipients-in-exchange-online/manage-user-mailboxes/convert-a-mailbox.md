@@ -20,7 +20,7 @@ You can convert the following mailboxes from one type to another:
   
 - User mailbox to resource (room or equipment) mailbox
     
-- Shared mailbox to user mailbox
+- User mailbox to shared mailbox
     
 - Shared mailbox to resource mailbox
     
