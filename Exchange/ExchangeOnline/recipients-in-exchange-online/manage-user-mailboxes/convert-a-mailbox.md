@@ -19,6 +19,8 @@ Converting a mailbox to a different type of mailbox is very similar to the exper
 You can convert the following mailboxes from one type to another:
   
 - User mailbox to resource (room or equipment) mailbox
+
+- Shared mailbox to user mailbox
     
 - Shared mailbox to user mailbox
     
